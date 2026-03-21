@@ -1,0 +1,5 @@
+db.sql
+modules
+password.txt 
+*.log
+!one.log
