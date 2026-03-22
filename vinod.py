@@ -1,1 +1,1 @@
-m fklnfknfkf 
+int main{ print("jnk kjjj bnnkjb h")}
